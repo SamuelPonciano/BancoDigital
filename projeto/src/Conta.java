@@ -25,6 +25,10 @@ public abstract class Conta implements IConta{
         return numero;
     }
 
+    public static void resetSequencial() {
+        SEQUENCIAL = 1;
+    }
+
     @Override
     public void sacar(double valor) throws SaldoInsuficienteException {
         if(valor > this.saldo){

@@ -33,6 +33,10 @@ public class Cliente implements Comparable<Cliente>{
         return contaPoupanca;
     }
 
+    public static void resetId() {
+        id = 1;
+    }
+
     public void criarContaCorrente(){
         if(contaCorrente != null){
             throw new IllegalStateException("Cliente já possui Conta corrente");

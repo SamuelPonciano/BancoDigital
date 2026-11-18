@@ -250,7 +250,8 @@ Contribuições são bem-vindas!
 
 **Samuel Ponciano Marques da Silva**
 
-[![GitHub](https://img.shields.io/badge/GitHub-SEU--USUARIO-181717?style=flat&logo=github)](https://github.com/SamuelPonciano)
+[![GitHub](https://img.shields.io/badge/github.com/SamuelPonciano)
+)](https://github.com/SamuelPonciano)
 
 ---
 
